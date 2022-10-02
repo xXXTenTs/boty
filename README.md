@@ -33,6 +33,13 @@
 
 ---
 
+## deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/5GVckyy/vckywa) 
+<br>
+
+
+
 ## Information
 > Alpahbot-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
 
