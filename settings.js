@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'YgMTEBId',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'UznRBHwU',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -27,18 +27,18 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "SteadyWhatsApp" //namabot kalian
-global.ownername= "VCKY" //nama kalian
-global.myweb ="https://vckyprofile.netlify.app" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/SteadyProject" //bebas asal jan hapus
-global.myweb2 = "https://vckyprofile.netlify.app" //bebas
+global.botname = "WillBoty" //namabot kalian
+global.ownername= "Will" //nama kalian
+global.myweb ="https://ErrorNotFound.app" //bebas asal jan hapus
+global.youtube = "https://ErrorNotFound.com/c/SteadyProject" //bebas asal jan hapus
+global.myweb2 = "https://ErrorNotFound.app" //bebas
 global.email = "cavck@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285234077576'] //premium user
-global.owner = ["6285234077576"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285234077576" // nomor wa kalian
-global.ownernomerr = "+6285234077576" //nmr wa kalian
+global.premium = ['6283144192251'] //premium user
+global.owner = ["6283144192251"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283144192251" // nomor wa kalian
+global.ownernomerr = "+6283144192251" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
